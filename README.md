@@ -1,5 +1,33 @@
 ### Hi there! I am Aryan, Welcome to my GitHub.
 
+
+<hr />
+
+
+
+
+### About Me 🚀
+
+💻 I am a sophomore student at Purdue University, West Lafayette. I am majoring in Computer Science.
+<br />
+🌱 I wish to pursue a career in the Cybersecurity Industry. 
+
+
+<br />
+
+
+📫 How to reach me: 
+<br /> LinkedIn: https://www.linkedin.com/in/aryan-jain-cs/
+<br /> Mail: aryanjain.1710@gmail.com
+
+
+<br />
+
+⚡ Skills: Python, Java, C, MySQL
+
+
+
+
 <!--
 **Aryan-Jain-1710/Aryan-Jain-1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
