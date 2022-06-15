@@ -8,7 +8,7 @@
 
 ### About Me 🚀
 
-💻 I am a sophomore student at Purdue University, West Lafayette. I am majoring in Computer Science.
+💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science.
 <br />
 🌱 I wish to pursue a career in the Cybersecurity Industry. 
 
