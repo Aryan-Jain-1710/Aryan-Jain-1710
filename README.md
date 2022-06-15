@@ -18,7 +18,9 @@
 
 💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science.
 <br />
+<br />
 🌱 I wish to pursue a career in the Cybersecurity Industry. 
+<br />
 <br />
 ⚡ Skills: Python, Java, C, MySQL
 
