@@ -1,7 +1,7 @@
 ## Hi there! I am Aryan, Welcome to my GitHub.
 
 
-<hr />
+
 
 <a href="https://www.linkedin.com/in/aryan-jain-cs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
@@ -11,7 +11,7 @@
 </a>
 
 <br />
-<br />
+
 
 
 ### About Me 🚀
