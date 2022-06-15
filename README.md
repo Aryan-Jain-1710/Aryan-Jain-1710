@@ -1,4 +1,4 @@
-### Hi there! I am Aryan, Welcome to my GitHub.
+## Hi there! I am Aryan, Welcome to my GitHub.
 
 
 <hr />
