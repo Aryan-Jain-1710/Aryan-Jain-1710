@@ -1,4 +1,4 @@
-### Hi there 👋 I am Aryan, Welcome to my GitHub!
+### Hi there! I am Aryan, Welcome to my GitHub.
 
 <!--
 **Aryan-Jain-1710/Aryan-Jain-1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
