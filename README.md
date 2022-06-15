@@ -23,6 +23,9 @@
 <br />
 <br />
 ⚡ Skills: Python, Java, C, MySQL
+<br />
+<br />
+📫 Feel free to reach out to me on the accounts above
 
 
 
