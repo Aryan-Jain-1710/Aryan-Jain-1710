@@ -16,13 +16,13 @@
 
 ### About Me 🚀
 
-💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science.
+💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science with a concentration in Cybersecurity and Databases and Information Systems.
 <br />
 <br />
 🌱 I wish to pursue a career in the Cybersecurity Industry. 
 <br />
 <br />
-⚡ Skills: Python, Java, C, MySQL
+⚡ Skills: C, Python, Java, Unix, Linux, Arduino, MySQL, Python-SQL Connectivity, Latex, R
 <br />
 <br />
 📫 Feel free to reach out to me on the accounts above
