@@ -6,8 +6,8 @@
 <a href="https://www.linkedin.com/in/aryan-jain-cs/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="mailto:aryanjain.1710@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:jain467@purdue.edu">
+  &emsp; <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
 </a>
 
 <br />
