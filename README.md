@@ -16,7 +16,7 @@
 
 ### About Me 🚀
 
-💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science with a concentration in Cybersecurity and Databases and Information Systems.
+💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science with a concentration in Security, Machine Intelligence and Databases and Information Systems.
 <br />
 <br />
 🌱 I wish to pursue a career in the Cybersecurity Industry. 
