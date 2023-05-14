@@ -1,33 +1,13 @@
 ## Hi there! I am Aryan, Welcome to my GitHub.
 
+- I am a junior studying Computer Science at **Purdue University**. 
+- I am interested in various fields including Security, Machine Intelligence and Databases and Information Systems.
+- I wish to pursue a career in the Cybersecurity Industry. 
 
-
-
-<a href="https://www.linkedin.com/in/aryan-jain-cs/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:jain467@purdue.edu">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" />
-</a>
-
-</br>
-
-
-
-### About Me 🚀
-
-💻 I am a sophomore student at [Purdue University, West Lafayette](https://www.purdue.edu/). I am majoring in Computer Science with a concentration in Security, Machine Intelligence and Databases and Information Systems.
-<br />
-<br />
-🌱 I wish to pursue a career in the Cybersecurity Industry. 
-<br />
-<br />
-⚡ Skills: C, Python, Java, Unix, Linux, Arduino, MySQL, Python-SQL Connectivity, Latex, R
-<br />
-<br />
-📫 Feel free to reach out to me on the accounts above
-
-
+### Contact Information
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-jain-cs/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://aryan-jain-1710.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryanjain.1710@gmail.com)
 
 
 <!--
