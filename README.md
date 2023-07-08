@@ -2,7 +2,8 @@
 
 - I am a junior studying Computer Science at **Purdue University**. 
 - I am interested in various fields including Security, Machine Intelligence and Databases and Information Systems.
-- I wish to pursue a career in the Cybersecurity Industry. 
+- I wish to pursue a career in the Cybersecurity Industry.
+- Learn more about me at [https://aryan-jain-1710.github.io/](https://aryan-jain-1710.github.io/)
 
 ### Contact Information
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-jain-cs/)
