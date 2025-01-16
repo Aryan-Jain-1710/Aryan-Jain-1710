@@ -1,6 +1,6 @@
 ## Hi there! I am Aryan, Welcome to my GitHub.
 
-- I am a junior studying Computer Science at **Purdue University**. 
+- I graduated from **Purdue University** in December 2024 with a degree in Computer Science.
 - I am interested in various fields including Security, Machine Intelligence and Databases and Information Systems.
 - Learn more about me at [https://aryan-jain-1710.github.io/](https://aryan-jain-1710.github.io/)
 
